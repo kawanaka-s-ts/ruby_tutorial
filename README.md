@@ -1,3 +1,5 @@
 
-ruby_tutorial  
-# ruby_tutorial
+# ruby_tutorial  
+aiueo アイウエオ
+git
+**aaaaa**
