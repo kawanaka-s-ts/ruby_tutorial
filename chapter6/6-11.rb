@@ -1,2 +1,6 @@
 menu = {"コーヒー" => 300, "カフェラテ" => 400}
-menu.each {|key, value| puts "#{ key }-#{ value }円" }
+keys = []
+menu.each do |key, value|
+    keys.push(key)
+end
+p keys
