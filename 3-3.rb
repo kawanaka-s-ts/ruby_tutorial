@@ -2,6 +2,6 @@
 #変数seasonは"春"とする
 
 season = "春"
-if season != "夏"
+unless season == "夏"
     puts "あんまん食べたい"
 end
