@@ -10,3 +10,14 @@ when  "夏"
 else
     puts "あんまん買っていこう"
 end   
+
+
+season = "春"
+case 
+when season == "春"
+    puts "アイス買っていこう"
+when season == "夏"
+    puts "かき氷買っていこう"
+else
+    puts "あんまん買っていこう"
+end   
