@@ -4,3 +4,5 @@ resault = [1, 2, 3].map do |x|
 x * 3
 end
 p resault
+
+p = [1, 2, 3].map { |x| x * 3 }
