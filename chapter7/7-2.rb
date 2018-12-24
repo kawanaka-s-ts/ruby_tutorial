@@ -1,5 +1,6 @@
-def area
-    3 * 3
+def area(x)
+    x * x
 end
 
-puts area
+puts area(3)
+
