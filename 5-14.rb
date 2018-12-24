@@ -5,3 +5,5 @@ result = a.sort
 p result
 
 p ["aya", "achi", "Tama"].map { |v| v.downcase }.sort
+
+p ["aya", "achi", "Tama"].map(&:downcase).sort
