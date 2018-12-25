@@ -1,4 +1,4 @@
-def order (drink)
+def order(drink)
     puts "#{drink}をください"
 end
 
