@@ -1,5 +1,5 @@
 class CaffeLatte
 end
 
-caffelatte = CaffeLatte.new
-p caffelatte.class
+caffe_latte = CaffeLatte.new
+p caffe_latte.class
