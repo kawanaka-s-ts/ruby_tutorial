@@ -2,6 +2,7 @@ class Item
   def name=(text)
     @name = text
   end
+  
   def name
     @name
   end
